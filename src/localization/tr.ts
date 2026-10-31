@@ -1234,6 +1234,7 @@ const tr = {
     },
   },
   traffic: {
+    'reset-dropped': 'Sıfırla',
     'detail-load-failed': 'Bu istek yüklenemedi. Tekrar deneyin.',
     'detail-not-found': 'Bu kayıt artık mevcut değil. Temizlenmiş olabilir.',
     fields: {
